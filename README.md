@@ -11,9 +11,7 @@ Voice: https://www.curseforge.com/minecraft/mc-mods/plasmo-voice-client
 Animations: https://dev.bukkit.org/projects/emotecraft-bukkit
 
 
-
 ATTENTION! It is better to update plugins, because they may not work.
-
 
 
 Files in zip archive:
