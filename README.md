@@ -3,6 +3,7 @@
 Build a vanilla survival server, but this build is different from SurvivalKungfu.
 
 The assembly has plugins for animation and voice chat. But in order for them to work correctly, you need to have mods in the minecraft client. Although the server needs mods, you can connect to the server without them.
+
 Mods (Need Forge or Fabric):
 Voice: https://www.curseforge.com/minecraft/mc-mods/plasmo-voice-client
 Animations: https://dev.bukkit.org/projects/emotecraft-bukkit
