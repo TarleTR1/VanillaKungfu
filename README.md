@@ -2,6 +2,8 @@
 
 Build a vanilla survival server, but this build is different from SurvivalKungfu.
 
+The idea for the assembly came when I watched several videos about one (like RP, but like survival) server.
+
 The assembly has plugins for animation and voice chat. But in order for them to work correctly, you need to have mods in the minecraft client. Although the server needs mods, you can connect to the server without them.
 
 Mods (Need Forge or Fabric):
